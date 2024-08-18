@@ -1,0 +1,2 @@
+C:\Users\81908\Downloads\HelloWorld (3)\HelloWorld\src\test\kotlin\com\example\HelloWorldClient.kt
+C:\Users\81908\Downloads\HelloWorld (3)\HelloWorld\src\test\kotlin\com\example\HelloWorldTest.kt
