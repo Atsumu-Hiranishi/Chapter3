@@ -1,9 +1,5 @@
 package com.example
 
-import com.example.ListName
-import com.example.ToDoItem
-import com.example.ToDoList
-import com.example.User
 import org.http4k.core.HttpHandler
 import org.http4k.server.Jetty
 import org.http4k.server.asServer
